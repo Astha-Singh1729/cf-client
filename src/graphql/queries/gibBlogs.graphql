@@ -1,0 +1,6 @@
+query somequery {
+  gibBlogs {
+    blog1
+    blog2
+  }
+}
